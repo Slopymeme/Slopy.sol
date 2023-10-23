@@ -3,7 +3,7 @@ Solidity Slopy
 Slopy token
 Name: Slopy
 Symbol: SLOPY
-Total Supply: 888,000,000,000,000
+Total Supply: 888,000,000,000,000  
 Decimals: 18
 Buy/Sell Fee: 0%
 Transfer Fee: 0.088%(For Master Wallet 0%)
